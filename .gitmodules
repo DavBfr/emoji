@@ -1,0 +1,4 @@
+[submodule "emojione"]
+	path = emojione
+	url = https://github.com/emojione/emojione.git
+	branch = 2.2.7
