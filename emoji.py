@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import glob
 import json
 import os
 import subprocess
@@ -43,12 +44,30 @@ def main():
 
         if '-' in name:
             continue
+        
+        if '_tone' in name:
+            continue
 
         result.append({
             'category': category,
             'name': name})
 
-    catmap = {'activity': 2, 'flags': 9, 'food': 3, 'nature': 4, 'objects': 5, 'people': 1, 'travel': 6, 'modifier': 7, 'symbols': 8, 'regional': 10}
+    category = 'emojis'
+    for filename in glob.glob(os.path.join(category, '*.svg')):
+        name = os.path.splitext(os.path.basename(filename))[0]
+
+        svg2png(filename, os.path.join('png-64', category, name + '.png'), 64)
+        svg2png(filename, os.path.join('png-256', category, name + '.png'), 256)
+        svg2png(filename, os.path.join('png-512', category, name + '.png'), 512)
+
+        result.append({
+            'category': category,
+            'name': name})
+
+        if name not in emoji:
+            emoji[name] = {'emoji_order': name}
+
+    catmap = {'emojis': 1, 'activity': 3, 'flags': 10, 'food': 4, 'nature': 5, 'objects': 6, 'people': 2, 'travel': 7, 'modifier': 8, 'symbols': 9, 'regional': 11}
 
     result.sort(key=lambda x: emoji[x['name']]['emoji_order'])
     result.sort(key=lambda x: catmap[x['category']])

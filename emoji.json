@@ -1,5 +1,157 @@
 [
     {
+        "category": "emojis",
+        "name": "unicorn"
+    },
+    {
+        "category": "emojis",
+        "name": "cactus"
+    },
+    {
+        "category": "emojis",
+        "name": "pineapple"
+    },
+    {
+        "category": "emojis",
+        "name": "pizza"
+    },
+    {
+        "category": "emojis",
+        "name": "birthday"
+    },
+    {
+        "category": "emojis",
+        "name": "anchor"
+    },
+    {
+        "category": "emojis",
+        "name": "rocket"
+    },
+    {
+        "category": "emojis",
+        "name": "stars"
+    },
+    {
+        "category": "emojis",
+        "name": "rainbow"
+    },
+    {
+        "category": "emojis",
+        "name": "zap"
+    },
+    {
+        "category": "emojis",
+        "name": "cool"
+    },
+    {
+        "category": "emojis",
+        "name": "be-cool"
+    },
+    {
+        "category": "emojis",
+        "name": "blue-stripes"
+    },
+    {
+        "category": "emojis",
+        "name": "color-poo"
+    },
+    {
+        "category": "emojis",
+        "name": "cupcake-blue"
+    },
+    {
+        "category": "emojis",
+        "name": "cupcake-green"
+    },
+    {
+        "category": "emojis",
+        "name": "cupcake-pink"
+    },
+    {
+        "category": "emojis",
+        "name": "diamond"
+    },
+    {
+        "category": "emojis",
+        "name": "donut-blue"
+    },
+    {
+        "category": "emojis",
+        "name": "donut-pink"
+    },
+    {
+        "category": "emojis",
+        "name": "dots"
+    },
+    {
+        "category": "emojis",
+        "name": "flamingo"
+    },
+    {
+        "category": "emojis",
+        "name": "geo-shapes"
+    },
+    {
+        "category": "emojis",
+        "name": "glasses"
+    },
+    {
+        "category": "emojis",
+        "name": "green-yellow"
+    },
+    {
+        "category": "emojis",
+        "name": "hello"
+    },
+    {
+        "category": "emojis",
+        "name": "hey"
+    },
+    {
+        "category": "emojis",
+        "name": "ice-cream"
+    },
+    {
+        "category": "emojis",
+        "name": "leafs"
+    },
+    {
+        "category": "emojis",
+        "name": "letter"
+    },
+    {
+        "category": "emojis",
+        "name": "love-you"
+    },
+    {
+        "category": "emojis",
+        "name": "mustach"
+    },
+    {
+        "category": "emojis",
+        "name": "palm"
+    },
+    {
+        "category": "emojis",
+        "name": "planet"
+    },
+    {
+        "category": "emojis",
+        "name": "ribon"
+    },
+    {
+        "category": "emojis",
+        "name": "summer"
+    },
+    {
+        "category": "emojis",
+        "name": "water-melon"
+    },
+    {
+        "category": "emojis",
+        "name": "yo"
+    },
+    {
         "category": "people",
         "name": "grinning"
     },
@@ -9,27 +161,11 @@
     },
     {
         "category": "people",
-        "name": "boy_tone1"
-    },
-    {
-        "category": "people",
-        "name": "boy_tone2"
-    },
-    {
-        "category": "people",
         "name": "couple"
     },
     {
         "category": "people",
-        "name": "boy_tone3"
-    },
-    {
-        "category": "people",
         "name": "two_men_holding_hands"
-    },
-    {
-        "category": "people",
-        "name": "boy_tone4"
     },
     {
         "category": "people",
@@ -46,10 +182,6 @@
     {
         "category": "people",
         "name": "kiss_ww"
-    },
-    {
-        "category": "people",
-        "name": "boy_tone5"
     },
     {
         "category": "people",
@@ -109,10 +241,6 @@
     },
     {
         "category": "people",
-        "name": "girl_tone1"
-    },
-    {
-        "category": "people",
         "name": "family_wwb"
     },
     {
@@ -133,35 +261,7 @@
     },
     {
         "category": "people",
-        "name": "girl_tone2"
-    },
-    {
-        "category": "people",
-        "name": "girl_tone3"
-    },
-    {
-        "category": "people",
         "name": "muscle"
-    },
-    {
-        "category": "people",
-        "name": "muscle_tone1"
-    },
-    {
-        "category": "people",
-        "name": "muscle_tone2"
-    },
-    {
-        "category": "people",
-        "name": "muscle_tone3"
-    },
-    {
-        "category": "people",
-        "name": "muscle_tone4"
-    },
-    {
-        "category": "people",
-        "name": "muscle_tone5"
     },
     {
         "category": "people",
@@ -169,51 +269,7 @@
     },
     {
         "category": "people",
-        "name": "selfie_tone1"
-    },
-    {
-        "category": "people",
-        "name": "selfie_tone2"
-    },
-    {
-        "category": "people",
-        "name": "selfie_tone3"
-    },
-    {
-        "category": "people",
-        "name": "girl_tone4"
-    },
-    {
-        "category": "people",
-        "name": "selfie_tone4"
-    },
-    {
-        "category": "people",
-        "name": "selfie_tone5"
-    },
-    {
-        "category": "people",
         "name": "point_left"
-    },
-    {
-        "category": "people",
-        "name": "point_left_tone1"
-    },
-    {
-        "category": "people",
-        "name": "point_left_tone2"
-    },
-    {
-        "category": "people",
-        "name": "point_left_tone3"
-    },
-    {
-        "category": "people",
-        "name": "point_left_tone4"
-    },
-    {
-        "category": "people",
-        "name": "point_left_tone5"
     },
     {
         "category": "people",
@@ -221,55 +277,11 @@
     },
     {
         "category": "people",
-        "name": "point_right_tone1"
-    },
-    {
-        "category": "people",
         "name": "yum"
     },
     {
         "category": "people",
-        "name": "girl_tone5"
-    },
-    {
-        "category": "people",
-        "name": "point_right_tone2"
-    },
-    {
-        "category": "people",
-        "name": "point_right_tone3"
-    },
-    {
-        "category": "people",
-        "name": "point_right_tone4"
-    },
-    {
-        "category": "people",
-        "name": "point_right_tone5"
-    },
-    {
-        "category": "people",
         "name": "point_up"
-    },
-    {
-        "category": "people",
-        "name": "point_up_tone1"
-    },
-    {
-        "category": "people",
-        "name": "point_up_tone2"
-    },
-    {
-        "category": "people",
-        "name": "point_up_tone3"
-    },
-    {
-        "category": "people",
-        "name": "point_up_tone4"
-    },
-    {
-        "category": "people",
-        "name": "point_up_tone5"
     },
     {
         "category": "people",
@@ -281,51 +293,7 @@
     },
     {
         "category": "people",
-        "name": "point_up_2_tone1"
-    },
-    {
-        "category": "people",
-        "name": "point_up_2_tone2"
-    },
-    {
-        "category": "people",
-        "name": "point_up_2_tone3"
-    },
-    {
-        "category": "people",
-        "name": "point_up_2_tone4"
-    },
-    {
-        "category": "people",
-        "name": "point_up_2_tone5"
-    },
-    {
-        "category": "people",
         "name": "middle_finger"
-    },
-    {
-        "category": "people",
-        "name": "middle_finger_tone1"
-    },
-    {
-        "category": "people",
-        "name": "middle_finger_tone2"
-    },
-    {
-        "category": "people",
-        "name": "middle_finger_tone3"
-    },
-    {
-        "category": "people",
-        "name": "man_tone1"
-    },
-    {
-        "category": "people",
-        "name": "middle_finger_tone4"
-    },
-    {
-        "category": "people",
-        "name": "middle_finger_tone5"
     },
     {
         "category": "people",
@@ -333,51 +301,7 @@
     },
     {
         "category": "people",
-        "name": "point_down_tone1"
-    },
-    {
-        "category": "people",
-        "name": "point_down_tone2"
-    },
-    {
-        "category": "people",
-        "name": "point_down_tone3"
-    },
-    {
-        "category": "people",
-        "name": "point_down_tone4"
-    },
-    {
-        "category": "people",
-        "name": "point_down_tone5"
-    },
-    {
-        "category": "people",
         "name": "v"
-    },
-    {
-        "category": "people",
-        "name": "v_tone1"
-    },
-    {
-        "category": "people",
-        "name": "man_tone2"
-    },
-    {
-        "category": "people",
-        "name": "v_tone2"
-    },
-    {
-        "category": "people",
-        "name": "v_tone3"
-    },
-    {
-        "category": "people",
-        "name": "v_tone4"
-    },
-    {
-        "category": "people",
-        "name": "v_tone5"
     },
     {
         "category": "people",
@@ -385,51 +309,7 @@
     },
     {
         "category": "people",
-        "name": "fingers_crossed_tone1"
-    },
-    {
-        "category": "people",
-        "name": "fingers_crossed_tone2"
-    },
-    {
-        "category": "people",
-        "name": "fingers_crossed_tone3"
-    },
-    {
-        "category": "people",
-        "name": "fingers_crossed_tone4"
-    },
-    {
-        "category": "people",
-        "name": "fingers_crossed_tone5"
-    },
-    {
-        "category": "people",
-        "name": "man_tone3"
-    },
-    {
-        "category": "people",
         "name": "vulcan"
-    },
-    {
-        "category": "people",
-        "name": "vulcan_tone1"
-    },
-    {
-        "category": "people",
-        "name": "vulcan_tone2"
-    },
-    {
-        "category": "people",
-        "name": "vulcan_tone3"
-    },
-    {
-        "category": "people",
-        "name": "vulcan_tone4"
-    },
-    {
-        "category": "people",
-        "name": "vulcan_tone5"
     },
     {
         "category": "people",
@@ -437,51 +317,7 @@
     },
     {
         "category": "people",
-        "name": "metal_tone1"
-    },
-    {
-        "category": "people",
-        "name": "metal_tone2"
-    },
-    {
-        "category": "people",
-        "name": "metal_tone3"
-    },
-    {
-        "category": "people",
-        "name": "man_tone4"
-    },
-    {
-        "category": "people",
-        "name": "metal_tone4"
-    },
-    {
-        "category": "people",
-        "name": "metal_tone5"
-    },
-    {
-        "category": "people",
         "name": "call_me"
-    },
-    {
-        "category": "people",
-        "name": "call_me_tone1"
-    },
-    {
-        "category": "people",
-        "name": "call_me_tone2"
-    },
-    {
-        "category": "people",
-        "name": "call_me_tone3"
-    },
-    {
-        "category": "people",
-        "name": "call_me_tone4"
-    },
-    {
-        "category": "people",
-        "name": "call_me_tone5"
     },
     {
         "category": "people",
@@ -489,51 +325,7 @@
     },
     {
         "category": "people",
-        "name": "hand_splayed_tone1"
-    },
-    {
-        "category": "people",
-        "name": "man_tone5"
-    },
-    {
-        "category": "people",
-        "name": "hand_splayed_tone2"
-    },
-    {
-        "category": "people",
-        "name": "hand_splayed_tone3"
-    },
-    {
-        "category": "people",
-        "name": "hand_splayed_tone4"
-    },
-    {
-        "category": "people",
-        "name": "hand_splayed_tone5"
-    },
-    {
-        "category": "people",
         "name": "raised_hand"
-    },
-    {
-        "category": "people",
-        "name": "raised_hand_tone1"
-    },
-    {
-        "category": "people",
-        "name": "raised_hand_tone2"
-    },
-    {
-        "category": "people",
-        "name": "raised_hand_tone3"
-    },
-    {
-        "category": "people",
-        "name": "raised_hand_tone4"
-    },
-    {
-        "category": "people",
-        "name": "raised_hand_tone5"
     },
     {
         "category": "people",
@@ -545,51 +337,7 @@
     },
     {
         "category": "people",
-        "name": "ok_hand_tone1"
-    },
-    {
-        "category": "people",
-        "name": "ok_hand_tone2"
-    },
-    {
-        "category": "people",
-        "name": "ok_hand_tone3"
-    },
-    {
-        "category": "people",
-        "name": "ok_hand_tone4"
-    },
-    {
-        "category": "people",
-        "name": "ok_hand_tone5"
-    },
-    {
-        "category": "people",
         "name": "thumbsup"
-    },
-    {
-        "category": "people",
-        "name": "thumbsup_tone1"
-    },
-    {
-        "category": "people",
-        "name": "thumbsup_tone2"
-    },
-    {
-        "category": "people",
-        "name": "thumbsup_tone3"
-    },
-    {
-        "category": "people",
-        "name": "woman_tone1"
-    },
-    {
-        "category": "people",
-        "name": "thumbsup_tone4"
-    },
-    {
-        "category": "people",
-        "name": "thumbsup_tone5"
     },
     {
         "category": "people",
@@ -597,51 +345,7 @@
     },
     {
         "category": "people",
-        "name": "thumbsdown_tone1"
-    },
-    {
-        "category": "people",
-        "name": "thumbsdown_tone2"
-    },
-    {
-        "category": "people",
-        "name": "thumbsdown_tone3"
-    },
-    {
-        "category": "people",
-        "name": "thumbsdown_tone4"
-    },
-    {
-        "category": "people",
-        "name": "thumbsdown_tone5"
-    },
-    {
-        "category": "people",
         "name": "fist"
-    },
-    {
-        "category": "people",
-        "name": "fist_tone1"
-    },
-    {
-        "category": "people",
-        "name": "woman_tone2"
-    },
-    {
-        "category": "people",
-        "name": "fist_tone2"
-    },
-    {
-        "category": "people",
-        "name": "fist_tone3"
-    },
-    {
-        "category": "people",
-        "name": "fist_tone4"
-    },
-    {
-        "category": "people",
-        "name": "fist_tone5"
     },
     {
         "category": "people",
@@ -649,31 +353,7 @@
     },
     {
         "category": "people",
-        "name": "punch_tone1"
-    },
-    {
-        "category": "people",
-        "name": "punch_tone2"
-    },
-    {
-        "category": "people",
-        "name": "punch_tone3"
-    },
-    {
-        "category": "people",
-        "name": "punch_tone4"
-    },
-    {
-        "category": "people",
-        "name": "punch_tone5"
-    },
-    {
-        "category": "people",
         "name": "sunglasses"
-    },
-    {
-        "category": "people",
-        "name": "woman_tone3"
     },
     {
         "category": "people",
@@ -681,51 +361,7 @@
     },
     {
         "category": "people",
-        "name": "left_facing_fist_tone1"
-    },
-    {
-        "category": "people",
-        "name": "left_facing_fist_tone2"
-    },
-    {
-        "category": "people",
-        "name": "left_facing_fist_tone3"
-    },
-    {
-        "category": "people",
-        "name": "left_facing_fist_tone4"
-    },
-    {
-        "category": "people",
-        "name": "left_facing_fist_tone5"
-    },
-    {
-        "category": "people",
         "name": "right_facing_fist"
-    },
-    {
-        "category": "people",
-        "name": "right_facing_fist_tone1"
-    },
-    {
-        "category": "people",
-        "name": "right_facing_fist_tone2"
-    },
-    {
-        "category": "people",
-        "name": "right_facing_fist_tone3"
-    },
-    {
-        "category": "people",
-        "name": "woman_tone4"
-    },
-    {
-        "category": "people",
-        "name": "right_facing_fist_tone4"
-    },
-    {
-        "category": "people",
-        "name": "right_facing_fist_tone5"
     },
     {
         "category": "people",
@@ -733,75 +369,11 @@
     },
     {
         "category": "people",
-        "name": "raised_back_of_hand_tone1"
-    },
-    {
-        "category": "people",
-        "name": "raised_back_of_hand_tone2"
-    },
-    {
-        "category": "people",
-        "name": "raised_back_of_hand_tone3"
-    },
-    {
-        "category": "people",
-        "name": "raised_back_of_hand_tone4"
-    },
-    {
-        "category": "people",
-        "name": "raised_back_of_hand_tone5"
-    },
-    {
-        "category": "people",
         "name": "wave"
     },
     {
         "category": "people",
-        "name": "wave_tone1"
-    },
-    {
-        "category": "people",
-        "name": "woman_tone5"
-    },
-    {
-        "category": "people",
-        "name": "wave_tone2"
-    },
-    {
-        "category": "people",
-        "name": "wave_tone3"
-    },
-    {
-        "category": "people",
-        "name": "wave_tone4"
-    },
-    {
-        "category": "people",
-        "name": "wave_tone5"
-    },
-    {
-        "category": "people",
         "name": "clap"
-    },
-    {
-        "category": "people",
-        "name": "clap_tone1"
-    },
-    {
-        "category": "people",
-        "name": "clap_tone2"
-    },
-    {
-        "category": "people",
-        "name": "clap_tone3"
-    },
-    {
-        "category": "people",
-        "name": "clap_tone4"
-    },
-    {
-        "category": "people",
-        "name": "clap_tone5"
     },
     {
         "category": "people",
@@ -813,51 +385,7 @@
     },
     {
         "category": "people",
-        "name": "writing_hand_tone1"
-    },
-    {
-        "category": "people",
-        "name": "writing_hand_tone2"
-    },
-    {
-        "category": "people",
-        "name": "writing_hand_tone3"
-    },
-    {
-        "category": "people",
-        "name": "writing_hand_tone4"
-    },
-    {
-        "category": "people",
-        "name": "writing_hand_tone5"
-    },
-    {
-        "category": "people",
         "name": "open_hands"
-    },
-    {
-        "category": "people",
-        "name": "open_hands_tone1"
-    },
-    {
-        "category": "people",
-        "name": "open_hands_tone2"
-    },
-    {
-        "category": "people",
-        "name": "open_hands_tone3"
-    },
-    {
-        "category": "people",
-        "name": "older_man_tone1"
-    },
-    {
-        "category": "people",
-        "name": "open_hands_tone4"
-    },
-    {
-        "category": "people",
-        "name": "open_hands_tone5"
     },
     {
         "category": "people",
@@ -865,51 +393,7 @@
     },
     {
         "category": "people",
-        "name": "raised_hands_tone1"
-    },
-    {
-        "category": "people",
-        "name": "raised_hands_tone2"
-    },
-    {
-        "category": "people",
-        "name": "raised_hands_tone3"
-    },
-    {
-        "category": "people",
-        "name": "raised_hands_tone4"
-    },
-    {
-        "category": "people",
-        "name": "raised_hands_tone5"
-    },
-    {
-        "category": "people",
         "name": "pray"
-    },
-    {
-        "category": "people",
-        "name": "pray_tone1"
-    },
-    {
-        "category": "people",
-        "name": "older_man_tone2"
-    },
-    {
-        "category": "people",
-        "name": "pray_tone2"
-    },
-    {
-        "category": "people",
-        "name": "pray_tone3"
-    },
-    {
-        "category": "people",
-        "name": "pray_tone4"
-    },
-    {
-        "category": "people",
-        "name": "pray_tone5"
     },
     {
         "category": "people",
@@ -917,51 +401,7 @@
     },
     {
         "category": "people",
-        "name": "handshake_tone1"
-    },
-    {
-        "category": "people",
-        "name": "handshake_tone2"
-    },
-    {
-        "category": "people",
-        "name": "handshake_tone3"
-    },
-    {
-        "category": "people",
-        "name": "handshake_tone4"
-    },
-    {
-        "category": "people",
-        "name": "handshake_tone5"
-    },
-    {
-        "category": "people",
-        "name": "older_man_tone3"
-    },
-    {
-        "category": "people",
         "name": "nail_care"
-    },
-    {
-        "category": "people",
-        "name": "nail_care_tone1"
-    },
-    {
-        "category": "people",
-        "name": "nail_care_tone2"
-    },
-    {
-        "category": "people",
-        "name": "nail_care_tone3"
-    },
-    {
-        "category": "people",
-        "name": "nail_care_tone4"
-    },
-    {
-        "category": "people",
-        "name": "nail_care_tone5"
     },
     {
         "category": "people",
@@ -969,51 +409,7 @@
     },
     {
         "category": "people",
-        "name": "ear_tone1"
-    },
-    {
-        "category": "people",
-        "name": "ear_tone2"
-    },
-    {
-        "category": "people",
-        "name": "ear_tone3"
-    },
-    {
-        "category": "people",
-        "name": "older_man_tone4"
-    },
-    {
-        "category": "people",
-        "name": "ear_tone4"
-    },
-    {
-        "category": "people",
-        "name": "ear_tone5"
-    },
-    {
-        "category": "people",
         "name": "nose"
-    },
-    {
-        "category": "people",
-        "name": "nose_tone1"
-    },
-    {
-        "category": "people",
-        "name": "nose_tone2"
-    },
-    {
-        "category": "people",
-        "name": "nose_tone3"
-    },
-    {
-        "category": "people",
-        "name": "nose_tone4"
-    },
-    {
-        "category": "people",
-        "name": "nose_tone5"
     },
     {
         "category": "people",
@@ -1022,10 +418,6 @@
     {
         "category": "people",
         "name": "eyes"
-    },
-    {
-        "category": "people",
-        "name": "older_man_tone5"
     },
     {
         "category": "people",
@@ -1053,15 +445,7 @@
     },
     {
         "category": "people",
-        "name": "older_woman_tone1"
-    },
-    {
-        "category": "people",
         "name": "zzz"
-    },
-    {
-        "category": "people",
-        "name": "older_woman_tone2"
     },
     {
         "category": "people",
@@ -1086,10 +470,6 @@
     {
         "category": "people",
         "name": "dress"
-    },
-    {
-        "category": "people",
-        "name": "older_woman_tone3"
     },
     {
         "category": "people",
@@ -1129,10 +509,6 @@
     },
     {
         "category": "people",
-        "name": "older_woman_tone4"
-    },
-    {
-        "category": "people",
         "name": "high_heel"
     },
     {
@@ -1169,10 +545,6 @@
     },
     {
         "category": "people",
-        "name": "older_woman_tone5"
-    },
-    {
-        "category": "people",
         "name": "ring"
     },
     {
@@ -1181,51 +553,11 @@
     },
     {
         "category": "people",
-        "name": "baby_tone1"
-    },
-    {
-        "category": "people",
-        "name": "baby_tone2"
-    },
-    {
-        "category": "people",
-        "name": "baby_tone3"
-    },
-    {
-        "category": "people",
-        "name": "baby_tone4"
-    },
-    {
-        "category": "people",
         "name": "kissing_heart"
     },
     {
         "category": "people",
-        "name": "baby_tone5"
-    },
-    {
-        "category": "people",
         "name": "angel"
-    },
-    {
-        "category": "people",
-        "name": "angel_tone1"
-    },
-    {
-        "category": "people",
-        "name": "angel_tone2"
-    },
-    {
-        "category": "people",
-        "name": "angel_tone3"
-    },
-    {
-        "category": "people",
-        "name": "angel_tone4"
-    },
-    {
-        "category": "people",
-        "name": "angel_tone5"
     },
     {
         "category": "people",
@@ -1329,26 +661,6 @@
     },
     {
         "category": "people",
-        "name": "cop_tone1"
-    },
-    {
-        "category": "people",
-        "name": "cop_tone2"
-    },
-    {
-        "category": "people",
-        "name": "cop_tone3"
-    },
-    {
-        "category": "people",
-        "name": "cop_tone4"
-    },
-    {
-        "category": "people",
-        "name": "cop_tone5"
-    },
-    {
-        "category": "people",
         "name": "relieved"
     },
     {
@@ -1357,27 +669,7 @@
     },
     {
         "category": "people",
-        "name": "spy_tone1"
-    },
-    {
-        "category": "people",
-        "name": "spy_tone2"
-    },
-    {
-        "category": "people",
         "name": "nerd"
-    },
-    {
-        "category": "people",
-        "name": "spy_tone3"
-    },
-    {
-        "category": "people",
-        "name": "spy_tone4"
-    },
-    {
-        "category": "people",
-        "name": "spy_tone5"
     },
     {
         "category": "people",
@@ -1389,27 +681,7 @@
     },
     {
         "category": "people",
-        "name": "guardsman_tone1"
-    },
-    {
-        "category": "people",
-        "name": "guardsman_tone2"
-    },
-    {
-        "category": "people",
-        "name": "guardsman_tone3"
-    },
-    {
-        "category": "people",
-        "name": "guardsman_tone4"
-    },
-    {
-        "category": "people",
         "name": "stuck_out_tongue_winking_eye"
-    },
-    {
-        "category": "people",
-        "name": "guardsman_tone5"
     },
     {
         "category": "people",
@@ -1418,26 +690,6 @@
     {
         "category": "people",
         "name": "construction_worker"
-    },
-    {
-        "category": "people",
-        "name": "construction_worker_tone1"
-    },
-    {
-        "category": "people",
-        "name": "construction_worker_tone2"
-    },
-    {
-        "category": "people",
-        "name": "construction_worker_tone3"
-    },
-    {
-        "category": "people",
-        "name": "construction_worker_tone4"
-    },
-    {
-        "category": "people",
-        "name": "construction_worker_tone5"
     },
     {
         "category": "people",
@@ -1457,26 +709,6 @@
     },
     {
         "category": "people",
-        "name": "man_with_turban_tone1"
-    },
-    {
-        "category": "people",
-        "name": "man_with_turban_tone2"
-    },
-    {
-        "category": "people",
-        "name": "man_with_turban_tone3"
-    },
-    {
-        "category": "people",
-        "name": "man_with_turban_tone4"
-    },
-    {
-        "category": "people",
-        "name": "man_with_turban_tone5"
-    },
-    {
-        "category": "people",
         "name": "sweat"
     },
     {
@@ -1489,26 +721,6 @@
     },
     {
         "category": "people",
-        "name": "person_with_blond_hair_tone1"
-    },
-    {
-        "category": "people",
-        "name": "person_with_blond_hair_tone2"
-    },
-    {
-        "category": "people",
-        "name": "person_with_blond_hair_tone3"
-    },
-    {
-        "category": "people",
-        "name": "person_with_blond_hair_tone4"
-    },
-    {
-        "category": "people",
-        "name": "person_with_blond_hair_tone5"
-    },
-    {
-        "category": "people",
         "name": "confused"
     },
     {
@@ -1517,51 +729,11 @@
     },
     {
         "category": "people",
-        "name": "santa_tone1"
-    },
-    {
-        "category": "people",
-        "name": "santa_tone2"
-    },
-    {
-        "category": "people",
         "name": "upside_down"
     },
     {
         "category": "people",
-        "name": "santa_tone3"
-    },
-    {
-        "category": "people",
-        "name": "santa_tone4"
-    },
-    {
-        "category": "people",
-        "name": "santa_tone5"
-    },
-    {
-        "category": "people",
         "name": "mrs_claus"
-    },
-    {
-        "category": "people",
-        "name": "mrs_claus_tone1"
-    },
-    {
-        "category": "people",
-        "name": "mrs_claus_tone2"
-    },
-    {
-        "category": "people",
-        "name": "mrs_claus_tone3"
-    },
-    {
-        "category": "people",
-        "name": "mrs_claus_tone4"
-    },
-    {
-        "category": "people",
-        "name": "mrs_claus_tone5"
     },
     {
         "category": "people",
@@ -1573,43 +745,7 @@
     },
     {
         "category": "people",
-        "name": "princess_tone1"
-    },
-    {
-        "category": "people",
-        "name": "princess_tone2"
-    },
-    {
-        "category": "people",
-        "name": "princess_tone3"
-    },
-    {
-        "category": "people",
-        "name": "princess_tone4"
-    },
-    {
-        "category": "people",
-        "name": "princess_tone5"
-    },
-    {
-        "category": "people",
         "name": "prince"
-    },
-    {
-        "category": "people",
-        "name": "prince_tone1"
-    },
-    {
-        "category": "people",
-        "name": "prince_tone2"
-    },
-    {
-        "category": "people",
-        "name": "prince_tone3"
-    },
-    {
-        "category": "people",
-        "name": "prince_tone4"
     },
     {
         "category": "people",
@@ -1617,31 +753,7 @@
     },
     {
         "category": "people",
-        "name": "prince_tone5"
-    },
-    {
-        "category": "people",
         "name": "bride_with_veil"
-    },
-    {
-        "category": "people",
-        "name": "bride_with_veil_tone1"
-    },
-    {
-        "category": "people",
-        "name": "bride_with_veil_tone2"
-    },
-    {
-        "category": "people",
-        "name": "bride_with_veil_tone3"
-    },
-    {
-        "category": "people",
-        "name": "bride_with_veil_tone4"
-    },
-    {
-        "category": "people",
-        "name": "bride_with_veil_tone5"
     },
     {
         "category": "people",
@@ -1649,51 +761,11 @@
     },
     {
         "category": "people",
-        "name": "man_in_tuxedo_tone1"
-    },
-    {
-        "category": "people",
-        "name": "man_in_tuxedo_tone2"
-    },
-    {
-        "category": "people",
         "name": "frowning2"
     },
     {
         "category": "people",
-        "name": "man_in_tuxedo_tone3"
-    },
-    {
-        "category": "people",
-        "name": "man_in_tuxedo_tone4"
-    },
-    {
-        "category": "people",
-        "name": "man_in_tuxedo_tone5"
-    },
-    {
-        "category": "people",
         "name": "pregnant_woman"
-    },
-    {
-        "category": "people",
-        "name": "pregnant_woman_tone1"
-    },
-    {
-        "category": "people",
-        "name": "pregnant_woman_tone2"
-    },
-    {
-        "category": "people",
-        "name": "pregnant_woman_tone3"
-    },
-    {
-        "category": "people",
-        "name": "pregnant_woman_tone4"
-    },
-    {
-        "category": "people",
-        "name": "pregnant_woman_tone5"
     },
     {
         "category": "people",
@@ -1705,43 +777,7 @@
     },
     {
         "category": "people",
-        "name": "man_with_gua_pi_mao_tone1"
-    },
-    {
-        "category": "people",
-        "name": "man_with_gua_pi_mao_tone2"
-    },
-    {
-        "category": "people",
-        "name": "man_with_gua_pi_mao_tone3"
-    },
-    {
-        "category": "people",
-        "name": "man_with_gua_pi_mao_tone4"
-    },
-    {
-        "category": "people",
-        "name": "man_with_gua_pi_mao_tone5"
-    },
-    {
-        "category": "people",
         "name": "person_frowning"
-    },
-    {
-        "category": "people",
-        "name": "person_frowning_tone1"
-    },
-    {
-        "category": "people",
-        "name": "person_frowning_tone2"
-    },
-    {
-        "category": "people",
-        "name": "person_frowning_tone3"
-    },
-    {
-        "category": "people",
-        "name": "person_frowning_tone4"
     },
     {
         "category": "people",
@@ -1753,35 +789,11 @@
     },
     {
         "category": "people",
-        "name": "person_frowning_tone5"
-    },
-    {
-        "category": "people",
         "name": "disappointed"
     },
     {
         "category": "people",
         "name": "person_with_pouting_face"
-    },
-    {
-        "category": "people",
-        "name": "person_with_pouting_face_tone1"
-    },
-    {
-        "category": "people",
-        "name": "person_with_pouting_face_tone2"
-    },
-    {
-        "category": "people",
-        "name": "person_with_pouting_face_tone3"
-    },
-    {
-        "category": "people",
-        "name": "person_with_pouting_face_tone4"
-    },
-    {
-        "category": "people",
-        "name": "person_with_pouting_face_tone5"
     },
     {
         "category": "people",
@@ -1797,26 +809,6 @@
     },
     {
         "category": "people",
-        "name": "no_good_tone1"
-    },
-    {
-        "category": "people",
-        "name": "no_good_tone2"
-    },
-    {
-        "category": "people",
-        "name": "no_good_tone3"
-    },
-    {
-        "category": "people",
-        "name": "no_good_tone4"
-    },
-    {
-        "category": "people",
-        "name": "no_good_tone5"
-    },
-    {
-        "category": "people",
         "name": "cry"
     },
     {
@@ -1829,26 +821,6 @@
     },
     {
         "category": "people",
-        "name": "ok_woman_tone1"
-    },
-    {
-        "category": "people",
-        "name": "ok_woman_tone2"
-    },
-    {
-        "category": "people",
-        "name": "ok_woman_tone3"
-    },
-    {
-        "category": "people",
-        "name": "ok_woman_tone4"
-    },
-    {
-        "category": "people",
-        "name": "ok_woman_tone5"
-    },
-    {
-        "category": "people",
         "name": "frowning"
     },
     {
@@ -1857,27 +829,7 @@
     },
     {
         "category": "people",
-        "name": "information_desk_person_tone1"
-    },
-    {
-        "category": "people",
-        "name": "information_desk_person_tone2"
-    },
-    {
-        "category": "people",
         "name": "anguished"
-    },
-    {
-        "category": "people",
-        "name": "information_desk_person_tone3"
-    },
-    {
-        "category": "people",
-        "name": "information_desk_person_tone4"
-    },
-    {
-        "category": "people",
-        "name": "information_desk_person_tone5"
     },
     {
         "category": "people",
@@ -1889,27 +841,7 @@
     },
     {
         "category": "people",
-        "name": "raising_hand_tone1"
-    },
-    {
-        "category": "people",
-        "name": "raising_hand_tone2"
-    },
-    {
-        "category": "people",
-        "name": "raising_hand_tone3"
-    },
-    {
-        "category": "people",
-        "name": "raising_hand_tone4"
-    },
-    {
-        "category": "people",
         "name": "weary"
-    },
-    {
-        "category": "people",
-        "name": "raising_hand_tone5"
     },
     {
         "category": "people",
@@ -1925,26 +857,6 @@
     },
     {
         "category": "people",
-        "name": "bow_tone1"
-    },
-    {
-        "category": "people",
-        "name": "bow_tone2"
-    },
-    {
-        "category": "people",
-        "name": "bow_tone3"
-    },
-    {
-        "category": "people",
-        "name": "bow_tone4"
-    },
-    {
-        "category": "people",
-        "name": "bow_tone5"
-    },
-    {
-        "category": "people",
         "name": "cold_sweat"
     },
     {
@@ -1954,26 +866,6 @@
     {
         "category": "people",
         "name": "face_palm"
-    },
-    {
-        "category": "people",
-        "name": "face_palm_tone1"
-    },
-    {
-        "category": "people",
-        "name": "face_palm_tone2"
-    },
-    {
-        "category": "people",
-        "name": "face_palm_tone3"
-    },
-    {
-        "category": "people",
-        "name": "face_palm_tone4"
-    },
-    {
-        "category": "people",
-        "name": "face_palm_tone5"
     },
     {
         "category": "people",
@@ -1989,26 +881,6 @@
     },
     {
         "category": "people",
-        "name": "shrug_tone1"
-    },
-    {
-        "category": "people",
-        "name": "shrug_tone2"
-    },
-    {
-        "category": "people",
-        "name": "shrug_tone3"
-    },
-    {
-        "category": "people",
-        "name": "shrug_tone4"
-    },
-    {
-        "category": "people",
-        "name": "shrug_tone5"
-    },
-    {
-        "category": "people",
         "name": "rage"
     },
     {
@@ -2017,27 +889,7 @@
     },
     {
         "category": "people",
-        "name": "massage_tone1"
-    },
-    {
-        "category": "people",
-        "name": "massage_tone2"
-    },
-    {
-        "category": "people",
         "name": "angry"
-    },
-    {
-        "category": "people",
-        "name": "massage_tone3"
-    },
-    {
-        "category": "people",
-        "name": "massage_tone4"
-    },
-    {
-        "category": "people",
-        "name": "massage_tone5"
     },
     {
         "category": "people",
@@ -2049,27 +901,7 @@
     },
     {
         "category": "people",
-        "name": "haircut_tone1"
-    },
-    {
-        "category": "people",
-        "name": "haircut_tone2"
-    },
-    {
-        "category": "people",
-        "name": "haircut_tone3"
-    },
-    {
-        "category": "people",
-        "name": "haircut_tone4"
-    },
-    {
-        "category": "people",
         "name": "cowboy"
-    },
-    {
-        "category": "people",
-        "name": "haircut_tone5"
     },
     {
         "category": "people",
@@ -2078,26 +910,6 @@
     {
         "category": "people",
         "name": "walking"
-    },
-    {
-        "category": "people",
-        "name": "walking_tone1"
-    },
-    {
-        "category": "people",
-        "name": "walking_tone2"
-    },
-    {
-        "category": "people",
-        "name": "walking_tone3"
-    },
-    {
-        "category": "people",
-        "name": "walking_tone4"
-    },
-    {
-        "category": "people",
-        "name": "walking_tone5"
     },
     {
         "category": "people",
@@ -2117,26 +929,6 @@
     },
     {
         "category": "people",
-        "name": "runner_tone1"
-    },
-    {
-        "category": "people",
-        "name": "runner_tone2"
-    },
-    {
-        "category": "people",
-        "name": "runner_tone3"
-    },
-    {
-        "category": "people",
-        "name": "runner_tone4"
-    },
-    {
-        "category": "people",
-        "name": "runner_tone5"
-    },
-    {
-        "category": "people",
         "name": "thermometer_face"
     },
     {
@@ -2149,51 +941,11 @@
     },
     {
         "category": "people",
-        "name": "dancer_tone1"
-    },
-    {
-        "category": "people",
-        "name": "dancer_tone2"
-    },
-    {
-        "category": "people",
-        "name": "dancer_tone3"
-    },
-    {
-        "category": "people",
-        "name": "dancer_tone4"
-    },
-    {
-        "category": "people",
-        "name": "dancer_tone5"
-    },
-    {
-        "category": "people",
         "name": "man_dancing"
     },
     {
         "category": "people",
-        "name": "man_dancing_tone1"
-    },
-    {
-        "category": "people",
-        "name": "man_dancing_tone2"
-    },
-    {
-        "category": "people",
-        "name": "man_dancing_tone3"
-    },
-    {
-        "category": "people",
-        "name": "man_dancing_tone4"
-    },
-    {
-        "category": "people",
         "name": "nauseated_face"
-    },
-    {
-        "category": "people",
-        "name": "man_dancing_tone5"
     },
     {
         "category": "people",
@@ -2305,26 +1057,6 @@
     },
     {
         "category": "activity",
-        "name": "juggling_tone1"
-    },
-    {
-        "category": "activity",
-        "name": "juggling_tone2"
-    },
-    {
-        "category": "activity",
-        "name": "juggling_tone3"
-    },
-    {
-        "category": "activity",
-        "name": "juggling_tone4"
-    },
-    {
-        "category": "activity",
-        "name": "juggling_tone5"
-    },
-    {
-        "category": "activity",
         "name": "circus_tent"
     },
     {
@@ -2342,26 +1074,6 @@
     {
         "category": "activity",
         "name": "bath"
-    },
-    {
-        "category": "activity",
-        "name": "bath_tone1"
-    },
-    {
-        "category": "activity",
-        "name": "bath_tone2"
-    },
-    {
-        "category": "activity",
-        "name": "bath_tone3"
-    },
-    {
-        "category": "activity",
-        "name": "bath_tone4"
-    },
-    {
-        "category": "activity",
-        "name": "bath_tone5"
     },
     {
         "category": "activity",
@@ -2557,26 +1269,6 @@
     },
     {
         "category": "activity",
-        "name": "horse_racing_tone1"
-    },
-    {
-        "category": "activity",
-        "name": "horse_racing_tone2"
-    },
-    {
-        "category": "activity",
-        "name": "horse_racing_tone3"
-    },
-    {
-        "category": "activity",
-        "name": "horse_racing_tone4"
-    },
-    {
-        "category": "activity",
-        "name": "horse_racing_tone5"
-    },
-    {
-        "category": "activity",
         "name": "skier"
     },
     {
@@ -2593,47 +1285,7 @@
     },
     {
         "category": "activity",
-        "name": "surfer_tone1"
-    },
-    {
-        "category": "activity",
-        "name": "surfer_tone2"
-    },
-    {
-        "category": "activity",
-        "name": "surfer_tone3"
-    },
-    {
-        "category": "activity",
-        "name": "surfer_tone4"
-    },
-    {
-        "category": "activity",
-        "name": "surfer_tone5"
-    },
-    {
-        "category": "activity",
         "name": "rowboat"
-    },
-    {
-        "category": "activity",
-        "name": "rowboat_tone1"
-    },
-    {
-        "category": "activity",
-        "name": "rowboat_tone2"
-    },
-    {
-        "category": "activity",
-        "name": "rowboat_tone3"
-    },
-    {
-        "category": "activity",
-        "name": "rowboat_tone4"
-    },
-    {
-        "category": "activity",
-        "name": "rowboat_tone5"
     },
     {
         "category": "activity",
@@ -2641,27 +1293,7 @@
     },
     {
         "category": "activity",
-        "name": "swimmer_tone1"
-    },
-    {
-        "category": "activity",
-        "name": "swimmer_tone2"
-    },
-    {
-        "category": "activity",
-        "name": "swimmer_tone3"
-    },
-    {
-        "category": "activity",
         "name": "space_invader"
-    },
-    {
-        "category": "activity",
-        "name": "swimmer_tone4"
-    },
-    {
-        "category": "activity",
-        "name": "swimmer_tone5"
     },
     {
         "category": "activity",
@@ -2669,47 +1301,7 @@
     },
     {
         "category": "activity",
-        "name": "basketball_player_tone1"
-    },
-    {
-        "category": "activity",
-        "name": "basketball_player_tone2"
-    },
-    {
-        "category": "activity",
-        "name": "basketball_player_tone3"
-    },
-    {
-        "category": "activity",
-        "name": "basketball_player_tone4"
-    },
-    {
-        "category": "activity",
-        "name": "basketball_player_tone5"
-    },
-    {
-        "category": "activity",
         "name": "lifter"
-    },
-    {
-        "category": "activity",
-        "name": "lifter_tone1"
-    },
-    {
-        "category": "activity",
-        "name": "lifter_tone2"
-    },
-    {
-        "category": "activity",
-        "name": "lifter_tone3"
-    },
-    {
-        "category": "activity",
-        "name": "lifter_tone4"
-    },
-    {
-        "category": "activity",
-        "name": "lifter_tone5"
     },
     {
         "category": "activity",
@@ -2717,47 +1309,7 @@
     },
     {
         "category": "activity",
-        "name": "bicyclist_tone1"
-    },
-    {
-        "category": "activity",
-        "name": "bicyclist_tone2"
-    },
-    {
-        "category": "activity",
-        "name": "bicyclist_tone3"
-    },
-    {
-        "category": "activity",
-        "name": "bicyclist_tone4"
-    },
-    {
-        "category": "activity",
-        "name": "bicyclist_tone5"
-    },
-    {
-        "category": "activity",
         "name": "mountain_bicyclist"
-    },
-    {
-        "category": "activity",
-        "name": "mountain_bicyclist_tone1"
-    },
-    {
-        "category": "activity",
-        "name": "mountain_bicyclist_tone2"
-    },
-    {
-        "category": "activity",
-        "name": "mountain_bicyclist_tone3"
-    },
-    {
-        "category": "activity",
-        "name": "mountain_bicyclist_tone4"
-    },
-    {
-        "category": "activity",
-        "name": "mountain_bicyclist_tone5"
     },
     {
         "category": "activity",
@@ -2765,47 +1317,7 @@
     },
     {
         "category": "activity",
-        "name": "cartwheel_tone1"
-    },
-    {
-        "category": "activity",
-        "name": "cartwheel_tone2"
-    },
-    {
-        "category": "activity",
-        "name": "cartwheel_tone3"
-    },
-    {
-        "category": "activity",
-        "name": "cartwheel_tone4"
-    },
-    {
-        "category": "activity",
-        "name": "cartwheel_tone5"
-    },
-    {
-        "category": "activity",
         "name": "wrestlers"
-    },
-    {
-        "category": "activity",
-        "name": "wrestlers_tone1"
-    },
-    {
-        "category": "activity",
-        "name": "wrestlers_tone2"
-    },
-    {
-        "category": "activity",
-        "name": "wrestlers_tone3"
-    },
-    {
-        "category": "activity",
-        "name": "wrestlers_tone4"
-    },
-    {
-        "category": "activity",
-        "name": "wrestlers_tone5"
     },
     {
         "category": "activity",
@@ -2813,47 +1325,7 @@
     },
     {
         "category": "activity",
-        "name": "water_polo_tone1"
-    },
-    {
-        "category": "activity",
-        "name": "water_polo_tone2"
-    },
-    {
-        "category": "activity",
-        "name": "water_polo_tone3"
-    },
-    {
-        "category": "activity",
-        "name": "water_polo_tone4"
-    },
-    {
-        "category": "activity",
-        "name": "water_polo_tone5"
-    },
-    {
-        "category": "activity",
         "name": "handball"
-    },
-    {
-        "category": "activity",
-        "name": "handball_tone1"
-    },
-    {
-        "category": "activity",
-        "name": "handball_tone2"
-    },
-    {
-        "category": "activity",
-        "name": "handball_tone3"
-    },
-    {
-        "category": "activity",
-        "name": "handball_tone4"
-    },
-    {
-        "category": "activity",
-        "name": "handball_tone5"
     },
     {
         "category": "food",
