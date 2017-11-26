@@ -14,6 +14,7 @@ def svg2png(src, dst, size):
         sstat = os.stat(src)
         if dstat.st_mtime > sstat.st_mtime:
             return
+        return
 
     if not os.path.isdir(os.path.dirname(dst)):
         os.makedirs(os.path.dirname(dst))
@@ -52,7 +53,7 @@ def main():
     result.sort(key=lambda x: emoji[x['name']]['emoji_order'])
     result.sort(key=lambda x: catmap[x['category']])
 
-    json.dump(result, open('emoji.json', 'w'))
+    json.dump(result, open('emoji.json', 'w'), indent=4, separators=(',', ': '))
 
 if __name__ == '__main__':
     main()
