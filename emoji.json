@@ -269,14 +269,6 @@
     },
     {
         "category": "people",
-        "name": "point_left"
-    },
-    {
-        "category": "people",
-        "name": "point_right"
-    },
-    {
-        "category": "people",
         "name": "yum"
     },
     {
@@ -294,10 +286,6 @@
     {
         "category": "people",
         "name": "middle_finger"
-    },
-    {
-        "category": "people",
-        "name": "point_down"
     },
     {
         "category": "people",

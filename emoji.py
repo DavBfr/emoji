@@ -44,8 +44,11 @@ def main():
 
         if '-' in name:
             continue
-        
+
         if '_tone' in name:
+            continue
+
+        if name in ('point_down', 'point_left', 'point_right'):
             continue
 
         result.append({
